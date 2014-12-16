@@ -1,0 +1,29 @@
+div{
+    border-style: dotted;
+    border-width: 2px;
+    border-color: gold;
+    padding: 20px;
+}
+
+.container{
+    border-color: red;
+}
+
+.row{
+    border-color: silver;
+}
+
+body{
+    color: white;
+}
+
+#lbj{
+    font-size: 50px;
+    margin-left: 350px;
+    color:red;
+}
+
+#nicknames{
+    font-size: 23px;
+    margin-left: 30px;
+}
